@@ -1,6 +1,7 @@
 Burada yönetim paneli ve mevcut etkinleri görmek amaçlı açılan ekran
 ![WhatsApp Image 2025-05-18 at 19 13 17](https://github.com/user-attachments/assets/e72b1965-7a8e-4aaa-aae0-45b1d35191f6)
 
+
 Yönetim panel giriş ekranı
 ![WhatsApp Image 2025-05-18 at 19 13 26](https://github.com/user-attachments/assets/7ee3165e-5a6e-4fcb-8f0c-8e302a0588da)
 
